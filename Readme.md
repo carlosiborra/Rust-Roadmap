@@ -11,7 +11,7 @@
     - [How to run](#how-to-run)
   - [2. Serving Pages to the Web](#2-serving-pages-to-the-web)
 
-## [1. Handling Command-Line Arguments](./1.HandlingCommandLineArguments/)
+## [1. Handling Command-Line Arguments](1.Handling%20Command-Line%20Arguments/)
 
 This is an example of how to handle command-line arguments in Rust. It's a simple program that takes a series of numbers as arguments and prints the gdc of all of them.
 
